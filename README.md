@@ -1,4 +1,4 @@
-# Drink Catalog (CLI-first)
+# BoozyDB (CLI-first)
 
 A CLI-first catalog for alcoholic drink recipes. Recipes are stored as individual JSON files under `data/recipes/`.
 

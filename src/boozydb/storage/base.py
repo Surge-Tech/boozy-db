@@ -4,7 +4,7 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Optional, Protocol
 
-from drinkcatalog.models import Recipe
+from boozydb.models import Recipe
 
 
 class Store(Protocol):

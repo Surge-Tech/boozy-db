@@ -6,11 +6,11 @@ from typing import Optional
 import typer
 from rich.console import Console
 
-from drinkcatalog.models import Ingredient, Recipe
-from drinkcatalog.query import Query, filter_recipes, sort_recipes
-from drinkcatalog.render import render_recipe, render_recipe_list
-from drinkcatalog.storage import JsonStore, StoreConfig
-from drinkcatalog.util import slugify
+from boozydb.models import Ingredient, Recipe
+from boozydb.query import Query, filter_recipes, sort_recipes
+from boozydb.render import render_recipe, render_recipe_list
+from boozydb.storage import JsonStore, StoreConfig
+from boozydb.util import slugify
 
 app = typer.Typer(add_completion=False, help="Drink recipe catalog (CLI-first).")
 console = Console()

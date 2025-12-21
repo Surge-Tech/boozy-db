@@ -3,13 +3,13 @@ requires = ["hatchling>=1.25.0"]
 build-backend = "hatchling.build"
 
 [project]
-name = "drinkcatalog"
+name = "boozydb"
 version = "0.1.0"
-description = "CLI-first catalog for alcoholic drink recipes (JSON-backed)."
+description = "BoozyDB is a CLI-first catalog for alcoholic drink recipes (JSON-backed)."
 readme = "README.md"
 requires-python = ">=3.10"
-license = { text = "MIT" }
-authors = [{ name = "You" }]
+license = { file = "LICENSE.md" }
+authors = [{ name = "Surge_Tech" }]
 dependencies = [
   "typer>=0.12.3",
   "rich>=13.7.1",
@@ -17,7 +17,7 @@ dependencies = [
 ]
 
 [project.scripts]
-drinkcat = "drinkcatalog.cli:app"
+boozydb = "boozydb.cli:app"
 
 [tool.hatch.build.targets.wheel]
-packages = ["src/drinkcatalog"]
+packages = ["src/boozydb"]

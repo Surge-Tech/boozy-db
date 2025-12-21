@@ -4,8 +4,8 @@ import random
 from dataclasses import dataclass
 from typing import Iterable, Optional
 
-from drinkcatalog.models import Recipe
-from drinkcatalog.util import slugify
+from boozydb.models import Recipe
+from boozydb.util import slugify
 
 
 @dataclass(frozen=True)

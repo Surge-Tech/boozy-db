@@ -1,11 +1,14 @@
 from __future__ import annotations
 
+import os
+import sys
+
 import json
 from pathlib import Path
 from typing import Optional
 
-from drinkcatalog.models import Recipe
-from drinkcatalog.storage.base import Store, StoreConfig
+from boozydb.models import Recipe
+from boozydb.storage.base import Store, StoreConfig
 
 
 class JsonStore(Store):
@@ -18,11 +21,14 @@ class JsonStore(Store):
 
     def list(self) -> list[Recipe]:
         recipes: list[Recipe] = []
+        debug = os.getenv("BOOZYDB_DEBUG", "").strip() == "1"
         for p in sorted(self.cfg.recipes_dir.glob("*.json")):
             try:
                 obj = json.loads(p.read_text(encoding="utf-8"))
                 recipes.append(Recipe.model_validate(obj))
-            except Exception:
+            except Exception as e:
+                if debug:
+                    print(f"[boozydb] Skipping invalid recipe file: {p} ({e})", file = sys.stderr)
                 continue
         return recipes
 

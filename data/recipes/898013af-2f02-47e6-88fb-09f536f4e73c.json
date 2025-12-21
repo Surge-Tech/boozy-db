@@ -2,7 +2,7 @@
   "schema_version": 1,
 
   "id": "898013af-2f02-47e6-88fb-09f536f4e73c",
-  "name": "Margarita Sour",
+  "name": "Margarita",
   "description": "Bright, balanced tequila sour.",
   "base_spirits": [
     "tequila"
@@ -14,7 +14,7 @@
   ],
   "method": "shake",
   "glassware": "coupe",
-  "ice": "none",
+  "ice": "large cubes",
   "garnish": [
     "lime wheel",
     "salt rim (optional)"

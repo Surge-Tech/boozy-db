@@ -5,19 +5,7 @@ A CLI-first catalog for alcoholic drink recipes. Recipes are stored as individua
 ## Quickstart
 
 ```bash
-python -m venv .venv
-source .venv/bin/activate  # Windows: .venv\Scripts\activate
-
-pip install -U pip
-pip install -e .
-
-drinkcat list
-drinkcat list --spirit gin
-drinkcat list --tag classic
-drinkcat list --ingredient "lime juice"
-drinkcat list --q negroni
-drinkcat show negroni
-drinkcat show <recipe-id>
+not there yet
 ```
 
 ## Data layout

@@ -1,12 +1,12 @@
 {
-  "schema_version": 1,
 
   "id": "b969e87d-3136-441b-bcb8-d4779bb8a30b",
   "name": "Manhattan",
   "description": "A classic cocktail made with bourbon, bitters, and sweet vermouth.",
 
   "base_spirits": [
-    "whiskey"
+    "whiskey",
+    "bourbon"
   ],
   "tags": [
     "classic",

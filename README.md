@@ -2,6 +2,8 @@
 
 A CLI-first catalog for alcoholic drink recipes. Recipes are stored as individual JSON files under `data/recipes/`.
 
+AGPL ver,
+
 ## Quickstart
 
 ```bash

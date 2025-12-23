@@ -1,7 +1,7 @@
 {
 
   "id": "898013af-2f02-47e6-88fb-09f536f4e73c",
-  "name": "Margarita",
+  "name": "Margarita-Lime",
   "description": "Bright, balanced tequila sour.",
   "base_spirits": [
     "tequila"
@@ -49,7 +49,7 @@
     }
   ],
   "steps": [
-    "If desired, salt the rim of a chilled glass.",
+    "If desired, salt/sugar the rim of a chilled glass.",
     "Add ingredients to a shaker with ice.",
     "Shake hard until chilled.",
     "Double strain into the glass and garnish."

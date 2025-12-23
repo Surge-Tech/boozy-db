@@ -15,9 +15,9 @@
   ],
   "method": "stir",
   "glassware": "rocks",
-  "ice": "large cube",
+  "ice": "large cubes",
   "garnish": [
-    "cherry"
+    "dark cherry"
   ],
 
   "ingredients": [
@@ -49,7 +49,7 @@
     "Add all ingredients to a shaker then add ice.",
     "Stir until well-chilled and properly diluted.",
     "Strain over a large cube (optional) in a rocks glass.",
-    "Garnish with a cherry."
+    "Garnish."
   ],
 
   "notes": null,

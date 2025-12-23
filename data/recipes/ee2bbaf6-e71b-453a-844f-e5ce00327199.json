@@ -1,0 +1,55 @@
+{
+
+  "id": "ee2bbaf6-e71b-453a-844f-e5ce00327199",
+  "name": "Brandy-Alexander",
+  "description": "Like a chocolate boozy milkshake.",
+  "base_spirits": [
+    "cognac"
+  ],
+  "tags": [
+    "sweet",
+    "creamy",
+    "chocolate"
+  ],
+  "method": "shake",
+  "glassware": "coupe",
+  "ice": "none",
+  "garnish": [
+    "ground nutmeg"
+  ],
+  "ingredients": [
+    {
+      "item": "cognac",
+      "amount": 1.5,
+      "unit": "oz",
+      "prep": null,
+      "optional": false
+    },
+    {
+      "item": "creme de cacao",
+      "amount": 1.0,
+      "unit": "oz",
+      "prep": null,
+      "optional": true
+    },
+    {
+      "item": "heavy cream",
+      "amount": 1.0,
+      "unit": "oz",
+      "prep": null,
+      "optional": false
+    }
+  ],
+  "steps": [
+    "Place all ingredients into a shaker.",
+    "Add ice and shake for 10 seconds.",
+    "Double strain into glass.",
+    "Garnish with fresh ground nutmeg using microplane."
+  ],
+  "notes": null,
+  "source": "Cocktail Cards",
+  "image": null,
+  "servings": 1,
+  "created_at": "2025-12-22T22:25:35+00:00",
+  "updated_at": "2025-12-22T22:25:35+00:00"
+}

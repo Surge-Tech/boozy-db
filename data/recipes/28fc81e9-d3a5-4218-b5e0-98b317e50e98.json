@@ -1,7 +1,7 @@
 {
 
   "id": "28fc81e9-d3a5-4218-b5e0-98b317e50e98",
-  "name": "Margarita (Strawberry)",
+  "name": "Margarita-Strawberry",
   "description": "A refreshing twist on the classic margarita with the addition of fresh strawberry.",
 
   "base_spirits": [
@@ -55,7 +55,7 @@
   ],
 
   "steps": [
-    "(Optional) - If using a salted or sugar rim, prepare the glass before shaking.)",
+    "If desired, salt/sugar the rim of a chilled glass.",
     "Add all ingredients to a shaker filled with ice.",
     "Shake until well chilled.",
     "Strain into a glass filled with large ice cubes.",
@@ -65,7 +65,7 @@
   "notes": null,
   "source": null,
 
-  "image": "",
+  "image": null,
 
   "servings": 1,
   "created_at": "2025-12-21T13:00:00+00:00",

@@ -1,0 +1,53 @@
+{
+  "id": "9c715d72-cc93-484a-9bdb-b59f85b12b84",
+  "name": "Vieux Carré",
+  "spirit": "whiskey",
+  "glass": "rocks",
+  "tags": [
+    "bitter",
+    "brandy",
+    "classic",
+    "stirred",
+    "whiskey"
+  ],
+  "ingredients": [
+    {
+      "amount": "0.75",
+      "unit": "oz",
+      "item": "rye whiskey"
+    },
+    {
+      "amount": "0.75",
+      "unit": "oz",
+      "item": "cognac"
+    },
+    {
+      "amount": "0.75",
+      "unit": "oz",
+      "item": "sweet vermouth"
+    },
+    {
+      "amount": "0.25",
+      "unit": "oz",
+      "item": "Bénédictine"
+    },
+    {
+      "amount": "2",
+      "unit": "dashes",
+      "item": "Angostura bitters"
+    },
+    {
+      "amount": "1",
+      "unit": "dash",
+      "item": "Peychaud's bitters"
+    }
+  ],
+  "instructions": [
+    "Combine all ingredients in a mixing glass with ice",
+    "Stir well",
+    "Strain into a rocks glass with fresh ice",
+    "Garnish with lemon twist and cherry"
+  ],
+  "source": "Walter Bergeron, c. 1930s, Hotel Monteleone (New Orleans)",
+  "created_at": "2026-05-07T15:24:26+00:00"
+}

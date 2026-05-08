@@ -1,0 +1,44 @@
+{
+  "id": "7c50a2bc-4b26-44e1-a6c3-53de77e562bf",
+  "name": "Hot Toddy",
+  "spirit": "whiskey",
+  "glass": "mug",
+  "tags": [
+    "built",
+    "citrus",
+    "classic",
+    "hot",
+    "sweet",
+    "whiskey"
+  ],
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "oz",
+      "item": "whiskey"
+    },
+    {
+      "amount": "1",
+      "unit": "oz",
+      "item": "honey"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "lemon juice"
+    },
+    {
+      "amount": "4",
+      "unit": "oz",
+      "item": "hot water"
+    }
+  ],
+  "instructions": [
+    "Combine whiskey, honey, and lemon juice in a mug",
+    "Add hot water",
+    "Stir well",
+    "Garnish with cinnamon stick and lemon wheel"
+  ],
+  "source": "Traditional Scottish/Irish, 18th century",
+  "created_at": "2026-05-07T15:24:26+00:00"
+}

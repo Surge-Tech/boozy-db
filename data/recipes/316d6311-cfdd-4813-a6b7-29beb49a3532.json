@@ -1,0 +1,43 @@
+{
+  "id": "316d6311-cfdd-4813-a6b7-29beb49a3532",
+  "name": "Irish Coffee",
+  "spirit": "whiskey",
+  "glass": "Irish coffee glass",
+  "tags": [
+    "built",
+    "classic",
+    "hot",
+    "sweet",
+    "whiskey"
+  ],
+  "ingredients": [
+    {
+      "amount": "1.5",
+      "unit": "oz",
+      "item": "Irish whiskey"
+    },
+    {
+      "amount": "4",
+      "unit": "oz",
+      "item": "hot coffee"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "brown sugar"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "whipped cream"
+    }
+  ],
+  "instructions": [
+    "Pour hot coffee into an Irish coffee glass",
+    "Stir in brown sugar and whiskey",
+    "Top with whipped cream",
+    "Serve immediately"
+  ],
+  "source": "Joe Sheridan, 1943, Foynes Airport (Ireland)",
+  "created_at": "2026-05-07T15:24:26+00:00"
+}

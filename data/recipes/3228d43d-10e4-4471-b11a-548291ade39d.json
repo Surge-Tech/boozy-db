@@ -1,0 +1,65 @@
+{
+  "id": "3228d43d-10e4-4471-b11a-548291ade39d",
+  "name": "Long Island Iced Tea",
+  "spirit": "vodka",
+  "glass": "highball",
+  "tags": [
+    "citrus",
+    "contemporary",
+    "highball",
+    "shaken",
+    "sweet",
+    "vodka"
+  ],
+  "ingredients": [
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "vodka"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "gin"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "rum"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "tequila"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "triple sec"
+    },
+    {
+      "amount": "1",
+      "unit": "oz",
+      "item": "lemon juice"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "simple syrup"
+    },
+    {
+      "amount": "1",
+      "unit": "splash",
+      "item": "cola"
+    }
+  ],
+  "instructions": [
+    "Combine all spirits, lemon juice, and simple syrup in a shaker with ice",
+    "Shake well",
+    "Strain into a highball glass with ice",
+    "Top with cola",
+    "Stir gently"
+  ],
+  "source": "Robert Butt, 1972, Oak Beach Inn (Long Island)",
+  "created_at": "2026-05-07T15:24:26+00:00"
+}

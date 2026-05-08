@@ -1,0 +1,38 @@
+{
+  "id": "0dd7904f-7a47-45c6-b414-c24753d1f0df",
+  "name": "Harvey Wallbanger",
+  "spirit": "vodka",
+  "glass": "highball",
+  "tags": [
+    "built",
+    "contemporary",
+    "fruity",
+    "sweet",
+    "vodka"
+  ],
+  "ingredients": [
+    {
+      "amount": "1.5",
+      "unit": "oz",
+      "item": "vodka"
+    },
+    {
+      "amount": "4",
+      "unit": "oz",
+      "item": "orange juice"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "Galliano"
+    }
+  ],
+  "instructions": [
+    "Fill a highball glass with ice",
+    "Add vodka and orange juice",
+    "Top with Galliano",
+    "Stir gently"
+  ],
+  "source": "Donato Antone, 1952, Duke's Blackwatch (Hollywood)",
+  "created_at": "2026-05-07T15:24:26+00:00"
+}

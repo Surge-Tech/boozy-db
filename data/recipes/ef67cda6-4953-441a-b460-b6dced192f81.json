@@ -1,0 +1,32 @@
+{
+  "id": "ef67cda6-4953-441a-b460-b6dced192f81",
+  "name": "French Connection",
+  "spirit": "brandy",
+  "glass": "rocks",
+  "tags": [
+    "brandy",
+    "built",
+    "contemporary",
+    "digestif",
+    "liqueur",
+    "sweet"
+  ],
+  "ingredients": [
+    {
+      "amount": "1.5",
+      "unit": "oz",
+      "item": "cognac"
+    },
+    {
+      "amount": "1.5",
+      "unit": "oz",
+      "item": "amaretto"
+    }
+  ],
+  "instructions": [
+    "Pour cognac and amaretto into a rocks glass with ice",
+    "Stir well"
+  ],
+  "source": "Traditional, popularized 1970s-80s",
+  "created_at": "2026-05-07T15:24:26+00:00"
+}

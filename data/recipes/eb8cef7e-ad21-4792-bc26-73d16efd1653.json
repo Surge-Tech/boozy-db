@@ -1,85 +1,22 @@
 {
-
   "id": "eb8cef7e-ad21-4792-bc26-73d16efd1653",
   "name": "Blue-Hawaii",
-  "description": "A tropical, fruity cocktail with a blue color and a sweet taste.",
-
-  "base_spirits": [
-    "rum",
-    "vodka"
-  ],
-  "tags": [
-    "tropical",
-    "fruit-forward",
-    "blue"
-  ],
-
-  "method": "shake",
-  "glassware": "tall",
-  "ice": "large cubes",
-  "garnish": [
-    "pineapple slice",
-    "maraschino cherry"
-  ],
-
   "ingredients": [
-    {
-      "item": "light rum",
-      "amount": 0.75,
-      "unit": "oz",
-      "prep": null,
-      "optional": false
-    },
-    {
-      "item": "vodka",
-      "amount": 0.75,
-      "unit": "oz",
-      "prep": null,
-      "optional": false
-    },
-    {
-      "item": "pineapple juice",
-      "amount": 3.0,
-      "unit": "oz",
-      "prep": null,
-      "optional": false
-    },
-    {
-      "item": "blue curacao",
-      "amount": 0.5,
-      "unit": "oz",
-      "prep": null,
-      "optional": false
-    },
-    {
-      "item": "lime juice",
-      "amount": 0.5,
-      "unit": "oz",
-      "prep": "freshly squeezed",
-      "optional": false
-    },
-    {
-      "item": "simple syrup",
-      "amount": 0.5,
-      "unit": "oz",
-      "prep": null,
-      "optional": false
-    }
+    {"amount": "0.75", "unit": "oz", "item": "light rum"},
+    {"amount": "0.75", "unit": "oz", "item": "vodka"},
+    {"amount": "3", "unit": "oz", "item": "pineapple juice"},
+    {"amount": "0.5", "unit": "oz", "item": "blue curacao"},
+    {"amount": "0.5", "unit": "oz", "item": "lime juice"},
+    {"amount": "0.5", "unit": "oz", "item": "simple syrup"}
   ],
-
-  "steps": [
-    "Combine all ingredients into a shaker with ice",
-    "Shake well until cold",
+  "instructions": [
+    "Combine all ingredients in a shaker with ice.",
+    "Shake well until cold.",
     "Strain into a tall glass filled with ice.",
-    "Garnish."
+    "Garnish with a pineapple slice and maraschino cherry."
   ],
-
-  "notes": null,
-  "source": null,
-
-  "image": null,
-
-  "servings": 1,
-  "created_at": "2025-12-21T20:00:00+00:00",
-  "updated_at": "2025-12-21T20:00:00+00:00"
+  "glass": "tall",
+  "tags": ["blue", "fruit-forward", "tropical"],
+  "spirit": "rum",
+  "created_at": "2025-12-21T20:00:00+00:00"
 }

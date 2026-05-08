@@ -1,0 +1,43 @@
+{
+  "id": "6ffa1480-9dff-4973-bfea-cf8afaaac6c5",
+  "name": "Lemon Drop Martini",
+  "spirit": "vodka",
+  "glass": "coupe",
+  "tags": [
+    "citrus",
+    "modern",
+    "shaken",
+    "sour",
+    "sweet",
+    "vodka"
+  ],
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "oz",
+      "item": "vodka"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "triple sec"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "lemon juice"
+    },
+    {
+      "amount": "0.25",
+      "unit": "oz",
+      "item": "simple syrup"
+    }
+  ],
+  "instructions": [
+    "Combine vodka, triple sec, lemon juice, and simple syrup in a shaker with ice",
+    "Shake well",
+    "Strain into a sugar-rimmed coupe glass"
+  ],
+  "source": "Norman Jay Hobday, 1970s, Henry Africa's (San Francisco)",
+  "created_at": "2026-05-07T15:23:14+00:00"
+}

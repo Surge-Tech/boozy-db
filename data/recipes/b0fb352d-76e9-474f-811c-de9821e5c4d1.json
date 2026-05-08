@@ -1,0 +1,45 @@
+{
+  "id": "b0fb352d-76e9-474f-811c-de9821e5c4d1",
+  "name": "Gin Basil Smash",
+  "spirit": "gin",
+  "glass": "rocks",
+  "tags": [
+    "citrus",
+    "gin",
+    "herbal",
+    "modern",
+    "shaken",
+    "sour"
+  ],
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "oz",
+      "item": "gin"
+    },
+    {
+      "amount": "1",
+      "unit": "oz",
+      "item": "lemon juice"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "simple syrup"
+    },
+    {
+      "amount": "6",
+      "unit": "leaves",
+      "item": "fresh basil"
+    }
+  ],
+  "instructions": [
+    "Muddle basil in a shaker",
+    "Add gin, lemon juice, and simple syrup",
+    "Fill with ice and shake well",
+    "Strain into a rocks glass with fresh ice",
+    "Garnish with basil sprig"
+  ],
+  "source": "Jörg Meyer, 2008, Le Lion (Hamburg)",
+  "created_at": "2026-05-07T15:24:26+00:00"
+}

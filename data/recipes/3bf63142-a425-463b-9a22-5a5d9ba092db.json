@@ -1,0 +1,45 @@
+{
+  "id": "3bf63142-a425-463b-9a22-5a5d9ba092db",
+  "name": "Tom Collins",
+  "spirit": "gin",
+  "glass": "highball",
+  "tags": [
+    "citrus",
+    "classic",
+    "fizz",
+    "gin",
+    "shaken",
+    "sour"
+  ],
+  "ingredients": [
+    {
+      "amount": "1.5",
+      "unit": "oz",
+      "item": "gin"
+    },
+    {
+      "amount": "0.75",
+      "unit": "oz",
+      "item": "lemon juice"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "simple syrup"
+    },
+    {
+      "amount": "3",
+      "unit": "oz",
+      "item": "soda water"
+    }
+  ],
+  "instructions": [
+    "Combine gin, lemon juice, and simple syrup in a shaker with ice",
+    "Shake well",
+    "Strain into a highball glass filled with ice",
+    "Top with soda water",
+    "Garnish with lemon"
+  ],
+  "source": "Jerry Thomas, 1876, The Bartender's Guide",
+  "created_at": "2026-05-07T15:23:14+00:00"
+}

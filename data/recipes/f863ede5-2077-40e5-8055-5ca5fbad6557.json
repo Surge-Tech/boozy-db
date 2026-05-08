@@ -1,0 +1,37 @@
+{
+  "id": "f863ede5-2077-40e5-8055-5ca5fbad6557",
+  "name": "French Martini",
+  "spirit": "vodka",
+  "glass": "coupe",
+  "tags": [
+    "fruity",
+    "modern",
+    "shaken",
+    "sweet",
+    "vodka"
+  ],
+  "ingredients": [
+    {
+      "amount": "1.5",
+      "unit": "oz",
+      "item": "vodka"
+    },
+    {
+      "amount": "1",
+      "unit": "oz",
+      "item": "Chambord"
+    },
+    {
+      "amount": "2",
+      "unit": "oz",
+      "item": "pineapple juice"
+    }
+  ],
+  "instructions": [
+    "Combine vodka, Chambord, and pineapple juice in a shaker with ice",
+    "Shake well",
+    "Strain into a coupe glass"
+  ],
+  "source": "Keith McNally, 1980s, Balthazar (New York)",
+  "created_at": "2026-05-07T15:23:14+00:00"
+}

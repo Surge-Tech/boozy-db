@@ -1,0 +1,43 @@
+{
+  "id": "127ccc63-0309-4cc1-9aaa-0416e06414a9",
+  "name": "Aviation",
+  "spirit": "gin",
+  "glass": "coupe",
+  "tags": [
+    "citrus",
+    "classic",
+    "floral",
+    "gin",
+    "shaken",
+    "sour"
+  ],
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "oz",
+      "item": "gin"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "maraschino"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "crème de violette"
+    },
+    {
+      "amount": "0.75",
+      "unit": "oz",
+      "item": "lemon juice"
+    }
+  ],
+  "instructions": [
+    "Combine all ingredients in a shaker with ice",
+    "Shake well",
+    "Strain into a coupe glass"
+  ],
+  "source": "Hugo Ensslin, 1916, Recipes for Mixed Drinks",
+  "created_at": "2026-05-07T15:24:26+00:00"
+}

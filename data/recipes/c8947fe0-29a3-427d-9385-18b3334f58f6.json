@@ -1,0 +1,52 @@
+{
+  "id": "c8947fe0-29a3-427d-9385-18b3334f58f6",
+  "name": "Hugo Spritz",
+  "spirit": "wine",
+  "glass": "wine glass",
+  "tags": [
+    "aperitif",
+    "built",
+    "floral",
+    "herbal",
+    "liqueur",
+    "modern",
+    "spritz",
+    "sweet",
+    "wine"
+  ],
+  "ingredients": [
+    {
+      "amount": "0.75",
+      "unit": "oz",
+      "item": "elderflower liqueur"
+    },
+    {
+      "amount": "3",
+      "unit": "oz",
+      "item": "prosecco"
+    },
+    {
+      "amount": "2",
+      "unit": "oz",
+      "item": "soda water"
+    },
+    {
+      "amount": "4",
+      "unit": "leaves",
+      "item": "fresh mint"
+    },
+    {
+      "amount": "slice",
+      "unit": "",
+      "item": "lemon"
+    }
+  ],
+  "instructions": [
+    "Pour elderflower liqueur into a wine glass with ice",
+    "Top with prosecco and soda water",
+    "Add mint and lemon",
+    "Stir gently"
+  ],
+  "source": "Roland Gruber, 2005, Naturns (South Tyrol)",
+  "created_at": "2026-05-07T15:24:26+00:00"
+}

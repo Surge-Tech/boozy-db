@@ -1,0 +1,50 @@
+{
+  "id": "7b66f975-29de-4e5b-976e-676431e162a0",
+  "name": "Michelada",
+  "spirit": "beer",
+  "glass": "highball",
+  "tags": [
+    "beer",
+    "built",
+    "citrus",
+    "classic",
+    "savory",
+    "spicy"
+  ],
+  "ingredients": [
+    {
+      "amount": "12",
+      "unit": "oz",
+      "item": "Mexican lager"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "lime juice"
+    },
+    {
+      "amount": "2",
+      "unit": "dashes",
+      "item": "hot sauce"
+    },
+    {
+      "amount": "3",
+      "unit": "dashes",
+      "item": "Worcestershire sauce"
+    },
+    {
+      "amount": "pinch",
+      "unit": "",
+      "item": "salt"
+    }
+  ],
+  "instructions": [
+    "Fill a highball glass with ice",
+    "Add lime juice and seasonings",
+    "Top with beer",
+    "Stir well",
+    "Garnish with lime wheel"
+  ],
+  "source": "Traditional Mexican, General Michel Esper c. 1940s-50s",
+  "created_at": "2026-05-07T15:24:26+00:00"
+}

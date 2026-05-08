@@ -1,0 +1,50 @@
+{
+  "id": "e248743d-cee0-4187-9473-259eb028fd53",
+  "name": "Mai Tai",
+  "spirit": "rum",
+  "glass": "rocks",
+  "tags": [
+    "classic",
+    "fruity",
+    "rum",
+    "shaken",
+    "tiki",
+    "tropical"
+  ],
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "oz",
+      "item": "light rum"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "dark rum"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "Cointreau"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "orgeat"
+    },
+    {
+      "amount": "0.75",
+      "unit": "oz",
+      "item": "lime juice"
+    }
+  ],
+  "instructions": [
+    "Combine light rum, Cointreau, orgeat, and lime juice in a shaker with ice",
+    "Shake well",
+    "Strain into a rocks glass with crushed ice",
+    "Float dark rum on top",
+    "Garnish with mint and pineapple"
+  ],
+  "source": "Trader Vic, 1944, Trader Vic's (Oakland)",
+  "created_at": "2026-05-07T15:24:26+00:00"
+}

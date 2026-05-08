@@ -1,0 +1,48 @@
+{
+  "id": "cfc38d4a-2c37-4aac-92c9-adb3995ef8dc",
+  "name": "Porn Star Martini",
+  "spirit": "vodka",
+  "glass": "coupe",
+  "tags": [
+    "fruity",
+    "modern",
+    "shaken",
+    "sweet",
+    "vodka"
+  ],
+  "ingredients": [
+    {
+      "amount": "1.5",
+      "unit": "oz",
+      "item": "vanilla vodka"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "Passoa"
+    },
+    {
+      "amount": "1",
+      "unit": "oz",
+      "item": "pineapple juice"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "lime juice"
+    },
+    {
+      "amount": "1",
+      "unit": "oz",
+      "item": "prosecco"
+    }
+  ],
+  "instructions": [
+    "Combine vodka, Passoa, pineapple juice, and lime juice in a shaker with ice",
+    "Shake well",
+    "Strain into a coupe glass",
+    "Serve prosecco as a shot on the side"
+  ],
+  "source": "Douglas Ankrah, 2002, LAB Bar (London)",
+  "created_at": "2026-05-07T15:23:14+00:00"
+}

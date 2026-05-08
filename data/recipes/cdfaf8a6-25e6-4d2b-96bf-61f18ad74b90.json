@@ -1,0 +1,45 @@
+{
+  "id": "cdfaf8a6-25e6-4d2b-96bf-61f18ad74b90",
+  "name": "El Diablo",
+  "spirit": "tequila",
+  "glass": "highball",
+  "tags": [
+    "built",
+    "classic",
+    "fruity",
+    "highball",
+    "spicy",
+    "tequila"
+  ],
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "oz",
+      "item": "tequila"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "crème de cassis"
+    },
+    {
+      "amount": "3",
+      "unit": "oz",
+      "item": "ginger beer"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "lime juice"
+    }
+  ],
+  "instructions": [
+    "Fill a highball glass with ice",
+    "Add tequila and lime juice",
+    "Top with ginger beer",
+    "Float crème de cassis on top",
+    "Stir gently"
+  ],
+  "source": "Trader Vic, 1946, Trader Vic's Bartender's Guide",
+  "created_at": "2026-05-07T15:24:26+00:00"
+}

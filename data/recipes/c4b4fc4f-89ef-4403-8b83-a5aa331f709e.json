@@ -1,0 +1,37 @@
+{
+  "id": "c4b4fc4f-89ef-4403-8b83-a5aa331f709e",
+  "name": "Sidecar",
+  "spirit": "brandy",
+  "glass": "coupe",
+  "tags": [
+    "brandy",
+    "citrus",
+    "classic",
+    "shaken",
+    "sour"
+  ],
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "oz",
+      "item": "cognac"
+    },
+    {
+      "amount": "1",
+      "unit": "oz",
+      "item": "Cointreau"
+    },
+    {
+      "amount": "0.75",
+      "unit": "oz",
+      "item": "lemon juice"
+    }
+  ],
+  "instructions": [
+    "Combine all ingredients in a shaker with ice",
+    "Shake well",
+    "Strain into a coupe glass"
+  ],
+  "source": "Harry MacElhone, 1919, Harry's New York Bar (Paris)",
+  "created_at": "2026-05-07T15:23:14+00:00"
+}

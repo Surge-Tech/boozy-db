@@ -1,0 +1,43 @@
+{
+  "id": "bb697264-436b-4bab-8aac-785155187271",
+  "name": "Boulevardier",
+  "spirit": "whiskey",
+  "glass": "coupe",
+  "tags": [
+    "aperitif",
+    "bitter",
+    "classic",
+    "stirred",
+    "whiskey"
+  ],
+  "ingredients": [
+    {
+      "amount": "1.5",
+      "unit": "oz",
+      "item": "bourbon"
+    },
+    {
+      "amount": "1",
+      "unit": "oz",
+      "item": "sweet vermouth"
+    },
+    {
+      "amount": "1",
+      "unit": "oz",
+      "item": "Campari"
+    },
+    {
+      "amount": "1",
+      "unit": "dash",
+      "item": "Angostura bitters"
+    }
+  ],
+  "instructions": [
+    "Combine all ingredients in a mixing glass with ice",
+    "Stir well",
+    "Strain into a coupe glass",
+    "Garnish with orange twist"
+  ],
+  "source": "Erskine Gwynne, 1927, Barflies and Cocktails",
+  "created_at": "2026-05-07T15:24:26+00:00"
+}

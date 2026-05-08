@@ -1,0 +1,43 @@
+{
+  "id": "4eddf053-d2c3-43f8-a1d9-07e06e8df425",
+  "name": "Oaxacan Old Fashioned",
+  "spirit": "tequila",
+  "glass": "rocks",
+  "tags": [
+    "bitter",
+    "mezcal",
+    "modern",
+    "stirred",
+    "tequila"
+  ],
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "oz",
+      "item": "reposado tequila"
+    },
+    {
+      "amount": "1",
+      "unit": "oz",
+      "item": "mezcal"
+    },
+    {
+      "amount": "1",
+      "unit": "dash",
+      "item": "Angostura bitters"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "agave nectar"
+    }
+  ],
+  "instructions": [
+    "Combine tequila, mezcal, bitters, and agave nectar in a mixing glass with ice",
+    "Stir well",
+    "Strain into a rocks glass with fresh ice",
+    "Garnish with orange twist"
+  ],
+  "source": "Phil Ward, 2007, Death & Co. (New York)",
+  "created_at": "2026-05-07T15:24:26+00:00"
+}

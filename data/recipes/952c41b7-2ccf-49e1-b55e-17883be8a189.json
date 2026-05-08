@@ -1,0 +1,44 @@
+{
+  "id": "952c41b7-2ccf-49e1-b55e-17883be8a189",
+  "name": "Mezcal Negroni",
+  "spirit": "mezcal",
+  "glass": "coupe",
+  "tags": [
+    "aperitif",
+    "bitter",
+    "herbal",
+    "mezcal",
+    "modern",
+    "stirred"
+  ],
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "oz",
+      "item": "mezcal"
+    },
+    {
+      "amount": "1",
+      "unit": "oz",
+      "item": "sweet vermouth"
+    },
+    {
+      "amount": "1",
+      "unit": "oz",
+      "item": "Campari"
+    },
+    {
+      "amount": "1",
+      "unit": "dash",
+      "item": "Angostura bitters"
+    }
+  ],
+  "instructions": [
+    "Combine all ingredients in a mixing glass with ice",
+    "Stir well",
+    "Strain into a coupe glass",
+    "Garnish with orange twist"
+  ],
+  "source": "Modern variation, mid-2010s",
+  "created_at": "2026-05-07T15:24:26+00:00"
+}

@@ -1,63 +1,20 @@
 {
-
   "id": "b969e87d-3136-441b-bcb8-d4779bb8a30b",
   "name": "Manhattan",
-  "description": "A classic cocktail made with bourbon, bitters, and sweet vermouth.",
-
-  "base_spirits": [
-    "whiskey",
-    "bourbon"
-  ],
-  "tags": [
-    "classic",
-    "stirred",
-    "spirit-forward"
-  ],
-  "method": "stir",
-  "glassware": "rocks",
-  "ice": "large cubes",
-  "garnish": [
-    "dark cherry"
-  ],
-
   "ingredients": [
-    {
-      "item": "bourbon or rye whiskey",
-      "amount": 2.0,
-      "unit": "oz",
-      "prep": null,
-      "optional": false
-    },
-    {
-      "item": "sweet vermouth",
-      "amount": 1.0,
-      "unit": "oz",
-      "prep": null,
-      "optional": false
-    },
-    {
-      "item": "angostura bitters",
-      "amount": 2.0,
-      "unit": "dash",
-      "prep": null,
-      "optional": false
-    }
+    {"amount": "2", "unit": "oz", "item": "bourbon or rye whiskey"},
+    {"amount": "1", "unit": "oz", "item": "sweet vermouth"},
+    {"amount": "2", "unit": "dash", "item": "angostura bitters"}
   ],
-
-  "steps": [
+  "instructions": [
     "Chill your glass with ice and water.",
-    "Add all ingredients to a shaker then add ice.",
+    "Add all ingredients to a mixing glass with ice.",
     "Stir until well-chilled and properly diluted.",
-    "Strain over a large cube (optional) in a rocks glass.",
-    "Garnish."
+    "Discard chill water and strain into the glass.",
+    "Garnish with a dark cherry."
   ],
-
-  "notes": null,
-  "source": "Trevor Fehrenbach",
-
-  "image": null,
-
-  "servings": 1,
-  "created_at": "2025-12-21T00:30:00+00:00",
-  "updated_at": "2025-12-21T00:30:00+00:00"
+  "glass": "rocks",
+  "tags": ["classic", "spirit-forward", "stirred"],
+  "spirit": "whiskey",
+  "created_at": "2025-12-21T00:30:00+00:00"
 }

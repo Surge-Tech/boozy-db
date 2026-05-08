@@ -1,0 +1,38 @@
+{
+  "id": "974f216c-672c-4ada-9ac1-52694203abb6",
+  "name": "Caipirinha",
+  "spirit": "cachaça",
+  "glass": "rocks",
+  "tags": [
+    "built",
+    "cachaça",
+    "citrus",
+    "classic",
+    "sour"
+  ],
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "oz",
+      "item": "cachaça"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "item": "lime"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "simple syrup"
+    }
+  ],
+  "instructions": [
+    "Cut lime into wedges and muddle with simple syrup in a rocks glass",
+    "Add cachaça",
+    "Fill with ice",
+    "Stir well"
+  ],
+  "source": "Traditional Brazilian, early 20th century",
+  "created_at": "2026-05-07T15:23:14+00:00"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "69937b80-7ac0-44ca-abcf-fe97e8850fc6",
+  "name": "Cuba Libre",
+  "spirit": "rum",
+  "glass": "highball",
+  "tags": [
+    "built",
+    "classic",
+    "highball",
+    "rum",
+    "sweet"
+  ],
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "oz",
+      "item": "white rum"
+    },
+    {
+      "amount": "4",
+      "unit": "oz",
+      "item": "cola"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "lime juice"
+    }
+  ],
+  "instructions": [
+    "Fill a highball glass with ice",
+    "Add rum and cola",
+    "Top with lime juice",
+    "Stir gently",
+    "Garnish with lime"
+  ],
+  "source": "American soldiers, c. 1900",
+  "created_at": "2026-05-07T15:23:14+00:00"
+}

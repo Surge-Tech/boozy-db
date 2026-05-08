@@ -1,0 +1,38 @@
+{
+  "id": "8984e518-dd8c-46d1-aeb1-9c8985cae9a7",
+  "name": "Hanky Panky",
+  "spirit": "gin",
+  "glass": "coupe",
+  "tags": [
+    "bitter",
+    "classic",
+    "gin",
+    "herbal",
+    "stirred"
+  ],
+  "ingredients": [
+    {
+      "amount": "1.5",
+      "unit": "oz",
+      "item": "gin"
+    },
+    {
+      "amount": "1.5",
+      "unit": "oz",
+      "item": "sweet vermouth"
+    },
+    {
+      "amount": "2",
+      "unit": "dashes",
+      "item": "Fernet-Branca"
+    }
+  ],
+  "instructions": [
+    "Combine all ingredients in a mixing glass with ice",
+    "Stir well",
+    "Strain into a coupe glass",
+    "Garnish with orange twist"
+  ],
+  "source": "Ada Coleman, 1925, The Savoy Hotel (London)",
+  "created_at": "2026-05-07T15:24:26+00:00"
+}

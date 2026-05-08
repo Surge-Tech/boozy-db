@@ -1,0 +1,44 @@
+{
+  "id": "1d81688c-8358-48df-b78e-383bb9784293",
+  "name": "Bramble",
+  "spirit": "gin",
+  "glass": "rocks",
+  "tags": [
+    "citrus",
+    "fruity",
+    "gin",
+    "modern",
+    "shaken",
+    "sour"
+  ],
+  "ingredients": [
+    {
+      "amount": "1.5",
+      "unit": "oz",
+      "item": "gin"
+    },
+    {
+      "amount": "0.75",
+      "unit": "oz",
+      "item": "lemon juice"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "simple syrup"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "crème de mûre"
+    }
+  ],
+  "instructions": [
+    "Combine gin, lemon juice, and simple syrup in a shaker with ice",
+    "Shake well",
+    "Strain into a rocks glass with ice",
+    "Float crème de mûre on top"
+  ],
+  "source": "Dick Bradsell, 1984, Fred's Bar (London)",
+  "created_at": "2026-05-07T15:23:14+00:00"
+}

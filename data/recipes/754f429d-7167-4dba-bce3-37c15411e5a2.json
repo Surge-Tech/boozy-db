@@ -1,0 +1,37 @@
+{
+  "id": "754f429d-7167-4dba-bce3-37c15411e5a2",
+  "name": "Rob Roy",
+  "spirit": "whiskey",
+  "glass": "coupe",
+  "tags": [
+    "bitter",
+    "classic",
+    "stirred",
+    "whiskey"
+  ],
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "oz",
+      "item": "blended Scotch"
+    },
+    {
+      "amount": "1",
+      "unit": "oz",
+      "item": "sweet vermouth"
+    },
+    {
+      "amount": "1",
+      "unit": "dash",
+      "item": "Angostura bitters"
+    }
+  ],
+  "instructions": [
+    "Combine all ingredients in a mixing glass with ice",
+    "Stir well",
+    "Strain into a coupe glass",
+    "Garnish with cherry"
+  ],
+  "source": "Unknown, 1894, Waldorf-Astoria (New York)",
+  "created_at": "2026-05-07T15:24:26+00:00"
+}

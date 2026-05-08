@@ -1,0 +1,44 @@
+{
+  "id": "d888cb3d-b4b3-4fe6-86a5-291d96beea42",
+  "name": "Mint Julep",
+  "spirit": "whiskey",
+  "glass": "julep cup",
+  "tags": [
+    "built",
+    "classic",
+    "herbal",
+    "sweet",
+    "whiskey"
+  ],
+  "ingredients": [
+    {
+      "amount": "2.5",
+      "unit": "oz",
+      "item": "bourbon"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "simple syrup"
+    },
+    {
+      "amount": "8",
+      "unit": "leaves",
+      "item": "fresh mint"
+    },
+    {
+      "amount": "2",
+      "unit": "oz",
+      "item": "water"
+    }
+  ],
+  "instructions": [
+    "Muddle mint and simple syrup in a julep cup",
+    "Add bourbon and water",
+    "Fill with crushed ice",
+    "Stir well",
+    "Garnish with mint sprig"
+  ],
+  "source": "John Davis, c. 1803",
+  "created_at": "2026-05-07T15:23:14+00:00"
+}

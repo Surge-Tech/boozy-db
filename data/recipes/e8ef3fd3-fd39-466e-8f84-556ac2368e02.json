@@ -1,0 +1,44 @@
+{
+  "id": "e8ef3fd3-fd39-466e-8f84-556ac2368e02",
+  "name": "Champagne Cocktail",
+  "spirit": "wine",
+  "glass": "flute",
+  "tags": [
+    "built",
+    "classic",
+    "sparkling",
+    "sweet",
+    "wine"
+  ],
+  "ingredients": [
+    {
+      "amount": "4",
+      "unit": "oz",
+      "item": "champagne"
+    },
+    {
+      "amount": "1",
+      "unit": "sugar cube",
+      "item": "or simple syrup"
+    },
+    {
+      "amount": "2",
+      "unit": "dashes",
+      "item": "Angostura bitters"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "brandy"
+    }
+  ],
+  "instructions": [
+    "Place sugar cube in a champagne flute",
+    "Add bitters",
+    "Add brandy",
+    "Top with champagne",
+    "Stir gently"
+  ],
+  "source": "Jerry Thomas, 1862, How to Mix Drinks",
+  "created_at": "2026-05-07T15:24:26+00:00"
+}

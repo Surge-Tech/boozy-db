@@ -1,0 +1,50 @@
+{
+  "id": "06c74cd7-1038-4679-8856-bc46ad3e9949",
+  "name": "Mojito",
+  "spirit": "rum",
+  "glass": "highball",
+  "tags": [
+    "built",
+    "citrus",
+    "classic",
+    "highball",
+    "rum",
+    "sweet"
+  ],
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "oz",
+      "item": "white rum"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "lime juice"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "simple syrup"
+    },
+    {
+      "amount": "6",
+      "unit": "leaves",
+      "item": "fresh mint"
+    },
+    {
+      "amount": "2",
+      "unit": "oz",
+      "item": "soda water"
+    }
+  ],
+  "instructions": [
+    "Muddle mint and simple syrup in a glass",
+    "Add rum and lime juice",
+    "Fill with ice",
+    "Top with soda water",
+    "Stir and garnish with mint"
+  ],
+  "source": "IBA Official / Traditional Cuban",
+  "created_at": "2026-05-07T15:23:14+00:00"
+}

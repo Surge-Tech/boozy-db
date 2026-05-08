@@ -1,0 +1,40 @@
+{
+  "id": "0f352c42-858e-430a-bfa1-df41b2b2bae2",
+  "name": "Dark & Stormy",
+  "spirit": "rum",
+  "glass": "highball",
+  "tags": [
+    "built",
+    "classic",
+    "highball",
+    "rum",
+    "spicy",
+    "sweet"
+  ],
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "oz",
+      "item": "dark rum"
+    },
+    {
+      "amount": "5",
+      "unit": "oz",
+      "item": "ginger beer"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "lime juice"
+    }
+  ],
+  "instructions": [
+    "Fill a highball glass with ice",
+    "Add dark rum and lime juice",
+    "Top with ginger beer",
+    "Stir gently",
+    "Garnish with lime"
+  ],
+  "source": "Gosling Brothers, c. 1920s, Bermuda",
+  "created_at": "2026-05-07T15:23:14+00:00"
+}

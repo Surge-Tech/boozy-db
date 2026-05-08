@@ -1,63 +1,21 @@
 {
-
   "id": "3a5a3949-927a-4eaf-ac82-e16a0b87d06a",
   "name": "Eggnog",
-  "description": "A traditional holiday drink made with eggs, milk, and cream, often flavored with cinnamon and nutmeg.",
-  "base_spirits": [
-    "brandy"
-  ],
-  "tags": [
-    "sweet",
-    "rich",
-    "holiday"
-  ],
-  "method": "shake",
-  "glassware": "coupe",
-  "ice": "none",
-  "garnish": [
-    "ground nutmeg"
-  ],
   "ingredients": [
-    {
-      "item": "brandy",
-      "amount": 2.0,
-      "unit": "oz",
-      "prep": null,
-      "optional": false
-    },
-    {
-      "item": "egg",
-      "amount": 1.0,
-      "unit": "egg",
-      "prep": null,
-      "optional": false
-    },
-    {
-      "item": "demerara sugar",
-      "amount": 0.75,
-      "unit": "oz",
-      "prep": null,
-      "optional": false
-    },
-    {
-        "item": "heavy cream",
-        "amount": 1.0,
-        "unit": "oz",
-        "prep": null,
-        "optional": false
-    }
+    {"amount": "2", "unit": "oz", "item": "brandy"},
+    {"amount": "1", "unit": "egg", "item": "egg"},
+    {"amount": "0.75", "unit": "oz", "item": "demerara sugar"},
+    {"amount": "1", "unit": "oz", "item": "heavy cream"}
   ],
-  "steps": [
+  "instructions": [
     "Place all ingredients into a shaker.",
     "Dry shake for 20 seconds (no ice).",
     "Add ice and shake for an additional 10 seconds.",
-    "Double strain into glass.",
-    "Garnish with fresh ground nutmeg using microplane."
+    "Double strain into a chilled glass.",
+    "Garnish with freshly grated nutmeg."
   ],
-  "notes": null,
-  "source": "Cocktail Cards",
-  "image": null,
-  "servings": 1,
-  "created_at": "2025-12-21T04:25:35+00:00",
-  "updated_at": "2025-12-21T04:25:35+00:00"
+  "glass": "coupe",
+  "tags": ["holiday", "rich", "sweet"],
+  "spirit": "brandy",
+  "created_at": "2025-12-21T04:25:35+00:00"
 }

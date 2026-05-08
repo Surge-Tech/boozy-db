@@ -1,0 +1,42 @@
+{
+  "id": "909b0065-b5af-41da-8949-34a1433d9851",
+  "name": "Hemingway Daiquiri",
+  "spirit": "rum",
+  "glass": "coupe",
+  "tags": [
+    "citrus",
+    "classic",
+    "rum",
+    "shaken",
+    "sour"
+  ],
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "oz",
+      "item": "white rum"
+    },
+    {
+      "amount": "1",
+      "unit": "oz",
+      "item": "grapefruit juice"
+    },
+    {
+      "amount": "0.75",
+      "unit": "oz",
+      "item": "lime juice"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "maraschino"
+    }
+  ],
+  "instructions": [
+    "Combine all ingredients in a shaker with ice",
+    "Shake well",
+    "Strain into a coupe glass"
+  ],
+  "source": "Constantino Ribalaigua, 1930s, El Floridita (Havana)",
+  "created_at": "2026-05-07T15:23:14+00:00"
+}

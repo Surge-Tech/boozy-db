@@ -1,65 +1,20 @@
 {
-
   "id": "4afb804e-0e2e-4d7d-9638-beaf66e10356",
   "name": "Sidecar",
-  "description": "A classic French coctail from Prohibition.",
-  "base_spirits": [
-    "brandy",
-    "cognac"
-  ],
-  "tags": [
-    "tart",
-    "crisp",
-    "fruity"
-  ],
-  "method": "shake",
-  "glassware": "coupe",
-  "ice": "none",
-  "garnish": [
-    "lemon twist",
-    "sugar rim"
-  ],
   "ingredients": [
-    {
-      "item": "brandy",
-      "amount": 2.0,
-      "unit": "oz",
-      "prep": null,
-      "optional": true
-    },
-    {
-      "item": "cognac",
-      "amount": 2.0,
-      "unit": "oz",
-      "prep": null,
-      "optional": true
-    },
-    {
-      "item": "orange liqueur",
-      "amount": 0.75,
-      "unit": "oz",
-      "prep": null,
-      "optional": false
-    },
-    {
-      "item": "lemon juice",
-      "amount": 0.5,
-      "unit": "oz",
-      "prep": null,
-      "optional": false
-    }
+    {"amount": "2", "unit": "oz", "item": "cognac"},
+    {"amount": "0.75", "unit": "oz", "item": "orange liqueur"},
+    {"amount": "0.5", "unit": "oz", "item": "lemon juice"}
   ],
-  "steps": [
-    "Add sugar rim to glass",
-    "Place all ingredients into a shaker",
-    "Add ice and shake for 10 seconds.",
-    "Double strain into glass.",
-    "Garnish."
+  "instructions": [
+    "Prepare a sugar rim on the glass.",
+    "Add all ingredients to a shaker with ice.",
+    "Shake for 10 seconds.",
+    "Double strain into the glass.",
+    "Garnish with a lemon twist."
   ],
-  "notes": "Choose brandy or cognac. Orange liqueur can vary in sweetness.",
-  "source": "Cocktail Cards",
-  "image": null,
-  "servings": 1,
-  "created_at": "2025-12-21T04:25:35+00:00",
-  "updated_at": "2025-12-21T04:25:35+00:00"
+  "glass": "coupe",
+  "tags": ["classic", "crisp", "fruity", "tart"],
+  "spirit": "cognac",
+  "created_at": "2025-12-21T04:25:35+00:00"
 }

@@ -1,0 +1,33 @@
+{
+  "id": "41fd509b-9f7f-4245-b51d-9a85315c622b",
+  "name": "Gimlet",
+  "spirit": "gin",
+  "glass": "coupe",
+  "tags": [
+    "citrus",
+    "classic",
+    "gin",
+    "sour",
+    "stirred",
+    "sweet"
+  ],
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "oz",
+      "item": "gin"
+    },
+    {
+      "amount": "1",
+      "unit": "oz",
+      "item": "lime cordial"
+    }
+  ],
+  "instructions": [
+    "Combine gin and lime cordial in a mixing glass with ice",
+    "Stir well",
+    "Strain into a coupe glass"
+  ],
+  "source": "Common knowledge / Royal Navy, c. 1890",
+  "created_at": "2026-05-07T15:23:14+00:00"
+}

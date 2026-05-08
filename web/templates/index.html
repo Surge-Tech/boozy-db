@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+
+{% block title %}BoozyDB - Recipe Gallery{% endblock %}
+
+{% block content %}
+<div class="gallery">
+    <div class="gallery-header">
+        <h1>Cocktail Recipes</h1>
+        <p class="gallery-subtitle">{{ recipes|length }} recipes</p>
+    </div>
+    <div class="recipe-grid">
+        {% for recipe in recipes %}
+        <a href="/recipe/{{ recipe.id }}" class="recipe-card">
+            <div class="glass-container">
+                {% set glass_key = recipe.glass|replace(' ', ' ') %}
+                {% if glass_key in glass_svgs %}
+                    {{ glass_svgs[glass_key]|safe }}
+                {% else %}
+                    {{ glass_svgs['rocks']|safe }}
+                {% endif %}
+            </div>
+            <div class="card-content">
+                <h2 class="recipe-name">{{ recipe.name }}</h2>
+                {% if recipe.spirit %}
+                <p class="recipe-spirit">{{ recipe.spirit }}</p>
+                {% endif %}
+                {% if recipe.tags %}
+                <div class="tags">
+                    {% for tag in recipe.tags[:2] %}
+                    <span class="tag">{{ tag }}</span>
+                    {% endfor %}
+                    {% if recipe.tags|length > 2 %}
+                    <span class="tag">+{{ recipe.tags|length - 2 }}</span>
+                    {% endif %}
+                </div>
+                {% endif %}
+            </div>
+        </a>
+        {% endfor %}
+    </div>
+</div>
+{% endblock %}

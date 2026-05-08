@@ -1,73 +1,21 @@
 {
-
   "id": "28fc81e9-d3a5-4218-b5e0-98b317e50e98",
   "name": "Margarita-Strawberry",
-  "description": "A refreshing twist on the classic margarita with the addition of fresh strawberry.",
-
-  "base_spirits": [
-    "tequila"
-  ],
-  "tags": [
-    "refreshing",
-    "fruit-forward",
-    "strawberry"
-  ],
-
-  "method": "shake",
-  "glassware": "coupe",
-  "ice": "large cubes",
-  "garnish": [
-    "strawberry",
-    "lime wheel",
-    "salted rim (optional)",
-    "sugar rim (optional)"
-  ],
-
   "ingredients": [
-    {
-      "item": "tequila blanco",
-      "amount": 2.0,
-      "unit": "oz",
-      "prep": null,
-      "optional": false
-    },
-    {
-      "item": "orange liqueur",
-      "amount": 0.50,
-      "unit": "oz",
-      "prep": null,
-      "optional": false
-    },
-    {
-      "item": "lime juice",
-      "amount": 1.0,
-      "unit": "oz",
-      "prep": "freshly squeezed",
-      "optional": false
-    },
-    {
-      "item": "strawberry syrup or strawberry puree",
-      "amount": 1.0,
-      "unit": "oz",
-      "prep": "prepared in advance",
-      "optional": false
-    }
+    {"amount": "2", "unit": "oz", "item": "tequila blanco"},
+    {"amount": "0.5", "unit": "oz", "item": "orange liqueur"},
+    {"amount": "1", "unit": "oz", "item": "lime juice"},
+    {"amount": "1", "unit": "oz", "item": "strawberry syrup or strawberry puree"}
   ],
-
-  "steps": [
-    "If desired, salt/sugar the rim of a chilled glass.",
+  "instructions": [
+    "If desired, prepare a salted or sugar rim on a chilled glass.",
     "Add all ingredients to a shaker filled with ice.",
     "Shake until well chilled.",
-    "Strain into a glass filled with large ice cubes.",
-    "Garnish with a lime wheel and strawberry."
+    "Strain into the glass filled with large ice cubes.",
+    "Garnish with a lime wheel and fresh strawberry."
   ],
-
-  "notes": null,
-  "source": null,
-
-  "image": null,
-
-  "servings": 1,
-  "created_at": "2025-12-21T13:00:00+00:00",
-  "updated_at": "2025-12-21T13:00:00+00:00"
+  "glass": "coupe",
+  "tags": ["fruit-forward", "refreshing", "strawberry"],
+  "spirit": "tequila",
+  "created_at": "2025-12-21T13:00:00+00:00"
 }

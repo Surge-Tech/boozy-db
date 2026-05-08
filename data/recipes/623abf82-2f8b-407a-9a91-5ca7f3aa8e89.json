@@ -1,0 +1,32 @@
+{
+  "id": "623abf82-2f8b-407a-9a91-5ca7f3aa8e89",
+  "name": "Godfather",
+  "spirit": "whiskey",
+  "glass": "rocks",
+  "tags": [
+    "built",
+    "contemporary",
+    "digestif",
+    "liqueur",
+    "sweet",
+    "whiskey"
+  ],
+  "ingredients": [
+    {
+      "amount": "1.5",
+      "unit": "oz",
+      "item": "blended Scotch"
+    },
+    {
+      "amount": "1.5",
+      "unit": "oz",
+      "item": "amaretto"
+    }
+  ],
+  "instructions": [
+    "Pour Scotch and amaretto into a rocks glass with ice",
+    "Stir well"
+  ],
+  "source": "Traditional, popularized 1970s-80s",
+  "created_at": "2026-05-07T15:24:26+00:00"
+}

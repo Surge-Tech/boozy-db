@@ -1,0 +1,38 @@
+{
+  "id": "e806ebcc-091e-42c3-95f5-addf3a7f764a",
+  "name": "Bee's Knees",
+  "spirit": "gin",
+  "glass": "coupe",
+  "tags": [
+    "citrus",
+    "classic",
+    "gin",
+    "shaken",
+    "sour",
+    "sweet"
+  ],
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "oz",
+      "item": "gin"
+    },
+    {
+      "amount": "0.75",
+      "unit": "oz",
+      "item": "lemon juice"
+    },
+    {
+      "amount": "0.75",
+      "unit": "oz",
+      "item": "honey syrup"
+    }
+  ],
+  "instructions": [
+    "Combine gin, lemon juice, and honey syrup in a shaker with ice",
+    "Shake well",
+    "Strain into a coupe glass"
+  ],
+  "source": "Traditional Prohibition-era, c. 1920s",
+  "created_at": "2026-05-07T15:24:26+00:00"
+}

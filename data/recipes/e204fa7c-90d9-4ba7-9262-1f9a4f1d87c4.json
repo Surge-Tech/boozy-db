@@ -1,0 +1,42 @@
+{
+  "id": "e204fa7c-90d9-4ba7-9262-1f9a4f1d87c4",
+  "name": "Ward Eight",
+  "spirit": "whiskey",
+  "glass": "coupe",
+  "tags": [
+    "citrus",
+    "classic",
+    "shaken",
+    "sour",
+    "whiskey"
+  ],
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "oz",
+      "item": "rye whiskey"
+    },
+    {
+      "amount": "1",
+      "unit": "oz",
+      "item": "lemon juice"
+    },
+    {
+      "amount": "0.75",
+      "unit": "oz",
+      "item": "orange juice"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "grenadine"
+    }
+  ],
+  "instructions": [
+    "Combine all ingredients in a shaker with ice",
+    "Shake well",
+    "Strain into a coupe glass"
+  ],
+  "source": "Tom Hussion, 1898, Locke-Ober Café (Boston)",
+  "created_at": "2026-05-07T15:24:26+00:00"
+}

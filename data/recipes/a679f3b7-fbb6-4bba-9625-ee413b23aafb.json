@@ -1,0 +1,44 @@
+{
+  "id": "a679f3b7-fbb6-4bba-9625-ee413b23aafb",
+  "name": "Aperol Sour",
+  "spirit": "liqueur",
+  "glass": "coupe",
+  "tags": [
+    "aperitif",
+    "citrus",
+    "liqueur",
+    "modern",
+    "shaken",
+    "sour"
+  ],
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "oz",
+      "item": "Aperol"
+    },
+    {
+      "amount": "1",
+      "unit": "oz",
+      "item": "lemon juice"
+    },
+    {
+      "amount": "0.75",
+      "unit": "oz",
+      "item": "simple syrup"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "egg white"
+    }
+  ],
+  "instructions": [
+    "Combine Aperol, lemon juice, simple syrup, and egg white in a shaker",
+    "Shake vigorously without ice for 10 seconds",
+    "Add ice and shake again",
+    "Strain into a coupe glass"
+  ],
+  "source": "Modern bar variation, c. 2010s",
+  "created_at": "2026-05-07T15:24:26+00:00"
+}

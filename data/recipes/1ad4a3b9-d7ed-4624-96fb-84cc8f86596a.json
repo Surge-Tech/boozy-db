@@ -1,0 +1,40 @@
+{
+  "id": "1ad4a3b9-d7ed-4624-96fb-84cc8f86596a",
+  "name": "Moscow Mule",
+  "spirit": "vodka",
+  "glass": "highball",
+  "tags": [
+    "built",
+    "citrus",
+    "classic",
+    "highball",
+    "spicy",
+    "vodka"
+  ],
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "oz",
+      "item": "vodka"
+    },
+    {
+      "amount": "4",
+      "unit": "oz",
+      "item": "ginger beer"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "lime juice"
+    }
+  ],
+  "instructions": [
+    "Fill a copper mug with ice",
+    "Add vodka and lime juice",
+    "Top with ginger beer",
+    "Stir gently",
+    "Garnish with lime wheel"
+  ],
+  "source": "John G. Martin & Jack Morgan, 1941",
+  "created_at": "2026-05-07T15:23:14+00:00"
+}

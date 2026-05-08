@@ -1,0 +1,85 @@
+{% extends "base.html" %}
+
+{% block title %}{{ recipe.name }} - BoozyDB{% endblock %}
+
+{% block content %}
+<div class="recipe-detail">
+    <a href="/" class="back-link">← Browse recipes</a>
+
+    <div class="detail-container">
+        <div class="detail-glass">
+            <div class="glass-container large">
+                {% set glass_key = recipe.glass|replace(' ', ' ') %}
+                {% if glass_key in glass_svgs %}
+                    {{ glass_svgs[glass_key]|safe }}
+                {% else %}
+                    {{ glass_svgs['rocks']|safe }}
+                {% endif %}
+            </div>
+            <h1>{{ recipe.name }}</h1>
+            <div class="meta-bar">
+                {% if recipe.spirit %}
+                <div class="meta-bar-item">
+                    <span class="meta-bar-label">Spirit</span>
+                    <span class="meta-bar-value">{{ recipe.spirit }}</span>
+                </div>
+                {% endif %}
+                <div class="meta-bar-item">
+                    <span class="meta-bar-label">Glass</span>
+                    <span class="meta-bar-value">{{ recipe.glass }}</span>
+                </div>
+                <div class="meta-bar-item">
+                    <span class="meta-bar-label">Created</span>
+                    <span class="meta-bar-value">{{ recipe.created_at.strftime('%b %d, %Y') }}</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="detail-content">
+            <section class="section">
+                <h2>Ingredients</h2>
+                <ul class="ingredients-list">
+                    {% for ingredient in recipe.ingredients %}
+                    <li class="ingredient">
+                        {% if ingredient.amount or ingredient.unit %}
+                        <span class="ingredient-measure">
+                            {% if ingredient.amount %}{{ ingredient.amount }}{% endif %}
+                            {% if ingredient.unit %}{{ ingredient.unit }}{% endif %}
+                        </span>
+                        {% endif %}
+                        <span class="ingredient-name">{{ ingredient.item }}</span>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </section>
+
+            <section class="section">
+                <h2>Instructions</h2>
+                <ol class="instructions-list">
+                    {% for instruction in recipe.instructions %}
+                    <li data-step="{{ loop.index }}">{{ instruction }}</li>
+                    {% endfor %}
+                </ol>
+            </section>
+
+            {% if recipe.tags %}
+            <section class="section">
+                <h2>Flavor Profile</h2>
+                <div class="tags">
+                    {% for tag in recipe.tags %}
+                    <span class="tag">{{ tag }}</span>
+                    {% endfor %}
+                </div>
+            </section>
+            {% endif %}
+
+            {% if recipe.source %}
+            <section class="section">
+                <h2>Source</h2>
+                <p class="source-text">{{ recipe.source }}</p>
+            </section>
+            {% endif %}
+        </div>
+    </div>
+</div>
+{% endblock %}

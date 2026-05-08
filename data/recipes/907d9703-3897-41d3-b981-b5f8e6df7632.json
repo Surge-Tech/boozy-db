@@ -1,0 +1,65 @@
+{
+  "id": "907d9703-3897-41d3-b981-b5f8e6df7632",
+  "name": "Singapore Sling",
+  "spirit": "gin",
+  "glass": "highball",
+  "tags": [
+    "classic",
+    "fruity",
+    "gin",
+    "shaken",
+    "sling",
+    "sweet"
+  ],
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "oz",
+      "item": "gin"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "Cherry Heering"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "Cointreau"
+    },
+    {
+      "amount": "0.25",
+      "unit": "oz",
+      "item": "Bénédictine"
+    },
+    {
+      "amount": "1",
+      "unit": "oz",
+      "item": "lime juice"
+    },
+    {
+      "amount": "1",
+      "unit": "oz",
+      "item": "pineapple juice"
+    },
+    {
+      "amount": "1",
+      "unit": "splash",
+      "item": "Angostura bitters"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "grenadine"
+    }
+  ],
+  "instructions": [
+    "Combine all ingredients except grenadine in a shaker with ice",
+    "Shake well",
+    "Strain into a highball glass with ice",
+    "Float grenadine on top",
+    "Garnish with pineapple and cherry"
+  ],
+  "source": "Ngiam Tong Boon, c. 1915, Raffles Hotel (Singapore)",
+  "created_at": "2026-05-07T15:23:14+00:00"
+}

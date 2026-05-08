@@ -1,0 +1,50 @@
+{
+  "id": "0284fb77-9f42-4e1c-ac67-42e93f973477",
+  "name": "Sazerac",
+  "spirit": "whiskey",
+  "glass": "rocks",
+  "tags": [
+    "bitter",
+    "classic",
+    "herbal",
+    "stirred",
+    "whiskey"
+  ],
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "oz",
+      "item": "rye whiskey"
+    },
+    {
+      "amount": "1",
+      "unit": "dash",
+      "item": "Peychaud's bitters"
+    },
+    {
+      "amount": "1",
+      "unit": "dash",
+      "item": "Angostura bitters"
+    },
+    {
+      "amount": "0.25",
+      "unit": "oz",
+      "item": "absinthe"
+    },
+    {
+      "amount": "1",
+      "unit": "sugar cube",
+      "item": "or 0.5 oz simple syrup"
+    }
+  ],
+  "instructions": [
+    "Rinse a rocks glass with absinthe and discard excess",
+    "Muddle sugar cube with bitters in a separate glass",
+    "Add rye whiskey and ice",
+    "Stir well",
+    "Strain into the prepared glass",
+    "Garnish with lemon twist"
+  ],
+  "source": "Antoine Peychaud, c. 1838, New Orleans",
+  "created_at": "2026-05-07T15:24:26+00:00"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "a47e3b83-c0de-422a-9021-21d7e70a43aa",
+  "name": "Bloody Mary",
+  "spirit": "vodka",
+  "glass": "highball",
+  "tags": [
+    "built",
+    "classic",
+    "highball",
+    "savory",
+    "spicy",
+    "vodka"
+  ],
+  "ingredients": [
+    {
+      "amount": "1.5",
+      "unit": "oz",
+      "item": "vodka"
+    },
+    {
+      "amount": "4",
+      "unit": "oz",
+      "item": "tomato juice"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "lemon juice"
+    },
+    {
+      "amount": "2",
+      "unit": "dashes",
+      "item": "hot sauce"
+    },
+    {
+      "amount": "3",
+      "unit": "dashes",
+      "item": "Worcestershire sauce"
+    }
+  ],
+  "instructions": [
+    "Build in a highball glass with ice",
+    "Add vodka and tomato juice",
+    "Add lemon juice and seasonings",
+    "Stir well",
+    "Garnish with celery and lemon"
+  ],
+  "source": "Fernand Petiot, 1921, Harry's New York Bar (Paris)",
+  "created_at": "2026-05-07T15:23:14+00:00"
+}

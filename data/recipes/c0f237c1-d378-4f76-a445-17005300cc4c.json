@@ -1,0 +1,38 @@
+{
+  "id": "c0f237c1-d378-4f76-a445-17005300cc4c",
+  "name": "Appletini",
+  "spirit": "vodka",
+  "glass": "coupe",
+  "tags": [
+    "fruity",
+    "modern",
+    "shaken",
+    "sour",
+    "sweet",
+    "vodka"
+  ],
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "oz",
+      "item": "vodka"
+    },
+    {
+      "amount": "1",
+      "unit": "oz",
+      "item": "sour apple schnapps"
+    },
+    {
+      "amount": "1",
+      "unit": "oz",
+      "item": "apple juice"
+    }
+  ],
+  "instructions": [
+    "Combine all ingredients in a shaker with ice",
+    "Shake well",
+    "Strain into a coupe glass"
+  ],
+  "source": "Adam Karimi, 1996, Lola's (West Hollywood)",
+  "created_at": "2026-05-07T15:24:26+00:00"
+}

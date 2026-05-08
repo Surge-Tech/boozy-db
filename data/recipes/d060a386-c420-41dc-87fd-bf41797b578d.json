@@ -1,0 +1,45 @@
+{
+  "id": "d060a386-c420-41dc-87fd-bf41797b578d",
+  "name": "Whiskey Smash",
+  "spirit": "whiskey",
+  "glass": "rocks",
+  "tags": [
+    "citrus",
+    "herbal",
+    "modern",
+    "shaken",
+    "sour",
+    "whiskey"
+  ],
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "oz",
+      "item": "bourbon"
+    },
+    {
+      "amount": "0.75",
+      "unit": "oz",
+      "item": "lemon juice"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "simple syrup"
+    },
+    {
+      "amount": "6",
+      "unit": "leaves",
+      "item": "fresh mint"
+    }
+  ],
+  "instructions": [
+    "Muddle mint in a shaker",
+    "Add bourbon, lemon juice, and simple syrup",
+    "Fill with ice and shake well",
+    "Strain into a rocks glass with fresh ice",
+    "Garnish with mint"
+  ],
+  "source": "Dale DeGroff, c. 1990s",
+  "created_at": "2026-05-07T15:23:14+00:00"
+}

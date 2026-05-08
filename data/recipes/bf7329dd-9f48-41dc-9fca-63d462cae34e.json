@@ -1,0 +1,33 @@
+{
+  "id": "bf7329dd-9f48-41dc-9fca-63d462cae34e",
+  "name": "Mimosa",
+  "spirit": "wine",
+  "glass": "flute",
+  "tags": [
+    "built",
+    "classic",
+    "fruity",
+    "sparkling",
+    "sweet",
+    "wine"
+  ],
+  "ingredients": [
+    {
+      "amount": "4",
+      "unit": "oz",
+      "item": "orange juice"
+    },
+    {
+      "amount": "3",
+      "unit": "oz",
+      "item": "champagne"
+    }
+  ],
+  "instructions": [
+    "Pour orange juice into a champagne flute",
+    "Top with champagne",
+    "Stir gently"
+  ],
+  "source": "Frank Meier, 1925, Ritz Hotel (Paris)",
+  "created_at": "2026-05-07T15:24:26+00:00"
+}

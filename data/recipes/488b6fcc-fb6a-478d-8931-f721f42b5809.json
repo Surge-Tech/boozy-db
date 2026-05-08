@@ -1,0 +1,42 @@
+{
+  "id": "488b6fcc-fb6a-478d-8931-f721f42b5809",
+  "name": "Negroni Sbagliato",
+  "spirit": "wine",
+  "glass": "rocks",
+  "tags": [
+    "aperitif",
+    "bitter",
+    "built",
+    "contemporary",
+    "wine"
+  ],
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "oz",
+      "item": "Campari"
+    },
+    {
+      "amount": "1",
+      "unit": "oz",
+      "item": "sweet vermouth"
+    },
+    {
+      "amount": "1",
+      "unit": "oz",
+      "item": "prosecco"
+    },
+    {
+      "amount": "1",
+      "unit": "dash",
+      "item": "Angostura bitters"
+    }
+  ],
+  "instructions": [
+    "Combine Campari, sweet vermouth, and prosecco in a rocks glass with ice",
+    "Stir gently",
+    "Garnish with orange twist"
+  ],
+  "source": "Mirko Stocchetto, 1968, Bar Basso (Milan)",
+  "created_at": "2026-05-07T15:24:26+00:00"
+}

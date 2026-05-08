@@ -1,0 +1,40 @@
+{
+  "id": "e7af6ff5-8bbf-499a-8ade-d21ad53e0d38",
+  "name": "Kentucky Mule",
+  "spirit": "whiskey",
+  "glass": "highball",
+  "tags": [
+    "built",
+    "citrus",
+    "contemporary",
+    "highball",
+    "spicy",
+    "whiskey"
+  ],
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "oz",
+      "item": "bourbon"
+    },
+    {
+      "amount": "4",
+      "unit": "oz",
+      "item": "ginger beer"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "lime juice"
+    }
+  ],
+  "instructions": [
+    "Fill a copper mug with ice",
+    "Add bourbon and lime juice",
+    "Top with ginger beer",
+    "Stir gently",
+    "Garnish with mint and lime"
+  ],
+  "source": "Modern variation of Moscow Mule, c. 2000s",
+  "created_at": "2026-05-07T15:23:14+00:00"
+}

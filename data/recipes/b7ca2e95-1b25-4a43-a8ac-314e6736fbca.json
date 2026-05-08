@@ -1,0 +1,43 @@
+{
+  "id": "b7ca2e95-1b25-4a43-a8ac-314e6736fbca",
+  "name": "Penicillin",
+  "spirit": "whiskey",
+  "glass": "rocks",
+  "tags": [
+    "citrus",
+    "modern",
+    "shaken",
+    "sour",
+    "whiskey"
+  ],
+  "ingredients": [
+    {
+      "amount": "1.5",
+      "unit": "oz",
+      "item": "blended Scotch"
+    },
+    {
+      "amount": "0.75",
+      "unit": "oz",
+      "item": "lemon juice"
+    },
+    {
+      "amount": "0.75",
+      "unit": "oz",
+      "item": "honey-ginger syrup"
+    },
+    {
+      "amount": "0.25",
+      "unit": "oz",
+      "item": "peaty Scotch"
+    }
+  ],
+  "instructions": [
+    "Combine blended Scotch, lemon juice, and honey-ginger syrup in a shaker with ice",
+    "Shake well",
+    "Strain into a rocks glass with fresh ice",
+    "Float peaty Scotch on top"
+  ],
+  "source": "Sam Ross, 2005, Milk & Honey (New York)",
+  "created_at": "2026-05-07T15:23:14+00:00"
+}

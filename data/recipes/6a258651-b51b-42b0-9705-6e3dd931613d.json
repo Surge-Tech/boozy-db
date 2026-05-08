@@ -1,0 +1,37 @@
+{
+  "id": "6a258651-b51b-42b0-9705-6e3dd931613d",
+  "name": "Tommy's Margarita",
+  "spirit": "tequila",
+  "glass": "rocks",
+  "tags": [
+    "citrus",
+    "modern",
+    "shaken",
+    "sour",
+    "tequila"
+  ],
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "oz",
+      "item": "blanco tequila"
+    },
+    {
+      "amount": "1",
+      "unit": "oz",
+      "item": "lime juice"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "agave nectar"
+    }
+  ],
+  "instructions": [
+    "Combine tequila, lime juice, and agave nectar in a shaker with ice",
+    "Shake well",
+    "Strain into a rocks glass with fresh ice"
+  ],
+  "source": "Julio Bermejo, early 1990s, Tommy's (San Francisco)",
+  "created_at": "2026-05-07T15:24:26+00:00"
+}

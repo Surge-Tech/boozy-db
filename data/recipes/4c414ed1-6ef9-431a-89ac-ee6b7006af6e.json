@@ -1,0 +1,37 @@
+{
+  "id": "4c414ed1-6ef9-431a-89ac-ee6b7006af6e",
+  "name": "Daiquiri",
+  "spirit": "rum",
+  "glass": "coupe",
+  "tags": [
+    "citrus",
+    "classic",
+    "rum",
+    "shaken",
+    "sour"
+  ],
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "oz",
+      "item": "white rum"
+    },
+    {
+      "amount": "1",
+      "unit": "oz",
+      "item": "lime juice"
+    },
+    {
+      "amount": "0.75",
+      "unit": "oz",
+      "item": "simple syrup"
+    }
+  ],
+  "instructions": [
+    "Combine ingredients in a shaker with ice",
+    "Shake well",
+    "Strain into a coupe glass"
+  ],
+  "source": "IBA Official / Traditional Cuban, c. 1900",
+  "created_at": "2026-05-07T15:23:05+00:00"
+}

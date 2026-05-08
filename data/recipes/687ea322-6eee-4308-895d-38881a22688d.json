@@ -1,0 +1,41 @@
+{
+  "id": "687ea322-6eee-4308-895d-38881a22688d",
+  "name": "Gin and Tonic",
+  "spirit": "gin",
+  "glass": "highball",
+  "tags": [
+    "built",
+    "citrus",
+    "classic",
+    "gin",
+    "herbal",
+    "highball"
+  ],
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "oz",
+      "item": "gin"
+    },
+    {
+      "amount": "5",
+      "unit": "oz",
+      "item": "tonic water"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "lime juice"
+    }
+  ],
+  "instructions": [
+    "Fill a highball glass with ice",
+    "Add gin",
+    "Top with tonic water",
+    "Squeeze lime over top",
+    "Stir gently",
+    "Garnish with lime wedge"
+  ],
+  "source": "Traditional British, late 1800s",
+  "created_at": "2026-05-07T15:23:14+00:00"
+}

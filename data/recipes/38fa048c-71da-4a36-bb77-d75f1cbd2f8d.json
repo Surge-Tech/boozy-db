@@ -1,0 +1,39 @@
+{
+  "id": "38fa048c-71da-4a36-bb77-d75f1cbd2f8d",
+  "name": "White Negroni",
+  "spirit": "gin",
+  "glass": "coupe",
+  "tags": [
+    "aperitif",
+    "bitter",
+    "gin",
+    "herbal",
+    "modern",
+    "stirred"
+  ],
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "oz",
+      "item": "gin"
+    },
+    {
+      "amount": "1",
+      "unit": "oz",
+      "item": "Lillet Blanc"
+    },
+    {
+      "amount": "1",
+      "unit": "oz",
+      "item": "Suze"
+    }
+  ],
+  "instructions": [
+    "Combine all ingredients in a mixing glass with ice",
+    "Stir well",
+    "Strain into a coupe glass",
+    "Garnish with lemon twist"
+  ],
+  "source": "Wayne Collins, 2001, Vinexpo (Bordeaux)",
+  "created_at": "2026-05-07T15:24:26+00:00"
+}

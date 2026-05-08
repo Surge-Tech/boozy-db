@@ -1,0 +1,33 @@
+{
+  "id": "bd495521-27a4-4736-bb88-34b6a6a24c0e",
+  "name": "Kir Royale",
+  "spirit": "wine",
+  "glass": "flute",
+  "tags": [
+    "built",
+    "classic",
+    "liqueur",
+    "sparkling",
+    "sweet",
+    "wine"
+  ],
+  "ingredients": [
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "crème de cassis"
+    },
+    {
+      "amount": "5",
+      "unit": "oz",
+      "item": "champagne"
+    }
+  ],
+  "instructions": [
+    "Pour crème de cassis into a champagne flute",
+    "Top with champagne",
+    "Stir gently"
+  ],
+  "source": "Canon Félix Kir, 1950s, Dijon (champagne variation)",
+  "created_at": "2026-05-07T15:24:26+00:00"
+}

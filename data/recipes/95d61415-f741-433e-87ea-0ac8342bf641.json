@@ -1,0 +1,48 @@
+{
+  "id": "95d61415-f741-433e-87ea-0ac8342bf641",
+  "name": "Jungle Bird",
+  "spirit": "rum",
+  "glass": "rocks",
+  "tags": [
+    "bitter",
+    "classic",
+    "fruity",
+    "rum",
+    "shaken",
+    "tiki"
+  ],
+  "ingredients": [
+    {
+      "amount": "1.5",
+      "unit": "oz",
+      "item": "dark rum"
+    },
+    {
+      "amount": "0.75",
+      "unit": "oz",
+      "item": "Campari"
+    },
+    {
+      "amount": "1",
+      "unit": "oz",
+      "item": "pineapple juice"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "lime juice"
+    },
+    {
+      "amount": "0.25",
+      "unit": "oz",
+      "item": "simple syrup"
+    }
+  ],
+  "instructions": [
+    "Combine all ingredients in a shaker with ice",
+    "Shake well",
+    "Strain into a rocks glass with fresh ice"
+  ],
+  "source": "Rakan Zailani, 1978, Hilton Kuala Lumpur",
+  "created_at": "2026-05-07T15:24:26+00:00"
+}

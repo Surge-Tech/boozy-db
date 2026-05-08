@@ -1,0 +1,50 @@
+{
+  "id": "0cffacc2-08a7-4ff7-8cab-775ff2ce5ca0",
+  "name": "Planter's Punch",
+  "spirit": "rum",
+  "glass": "highball",
+  "tags": [
+    "built",
+    "citrus",
+    "classic",
+    "punch",
+    "rum",
+    "sour"
+  ],
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "oz",
+      "item": "dark rum"
+    },
+    {
+      "amount": "1",
+      "unit": "oz",
+      "item": "lime juice"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "simple syrup"
+    },
+    {
+      "amount": "2",
+      "unit": "dashes",
+      "item": "Angostura bitters"
+    },
+    {
+      "amount": "2",
+      "unit": "oz",
+      "item": "soda water"
+    }
+  ],
+  "instructions": [
+    "Combine rum, lime juice, simple syrup, and bitters in a shaker with ice",
+    "Shake well",
+    "Strain into a highball glass with ice",
+    "Top with soda water",
+    "Garnish with fruit"
+  ],
+  "source": "Myers' Rum advertisement, 1908",
+  "created_at": "2026-05-07T15:24:26+00:00"
+}

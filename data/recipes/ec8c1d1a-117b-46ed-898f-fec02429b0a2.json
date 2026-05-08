@@ -1,0 +1,37 @@
+{
+  "id": "ec8c1d1a-117b-46ed-898f-fec02429b0a2",
+  "name": "Gold Rush",
+  "spirit": "whiskey",
+  "glass": "rocks",
+  "tags": [
+    "citrus",
+    "modern",
+    "shaken",
+    "sour",
+    "whiskey"
+  ],
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "oz",
+      "item": "bourbon"
+    },
+    {
+      "amount": "1",
+      "unit": "oz",
+      "item": "lemon juice"
+    },
+    {
+      "amount": "0.75",
+      "unit": "oz",
+      "item": "honey syrup"
+    }
+  ],
+  "instructions": [
+    "Combine bourbon, lemon juice, and honey syrup in a shaker with ice",
+    "Shake well",
+    "Strain into a rocks glass with fresh ice"
+  ],
+  "source": "T.J. Siegel, 2001, Milk & Honey (New York)",
+  "created_at": "2026-05-07T15:23:14+00:00"
+}

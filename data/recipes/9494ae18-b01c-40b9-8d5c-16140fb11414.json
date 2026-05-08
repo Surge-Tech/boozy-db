@@ -1,0 +1,50 @@
+{
+  "id": "9494ae18-b01c-40b9-8d5c-16140fb11414",
+  "name": "New York Sour",
+  "spirit": "whiskey",
+  "glass": "rocks",
+  "tags": [
+    "citrus",
+    "contemporary",
+    "layered",
+    "shaken",
+    "sour",
+    "whiskey"
+  ],
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "oz",
+      "item": "bourbon"
+    },
+    {
+      "amount": "1",
+      "unit": "oz",
+      "item": "lemon juice"
+    },
+    {
+      "amount": "0.75",
+      "unit": "oz",
+      "item": "simple syrup"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "item": "egg white"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "red wine"
+    }
+  ],
+  "instructions": [
+    "Combine bourbon, lemon juice, simple syrup, and egg white in a shaker",
+    "Shake vigorously without ice for 10 seconds",
+    "Add ice and shake again",
+    "Strain into a rocks glass with fresh ice",
+    "Float red wine on top"
+  ],
+  "source": "Traditional/Modern popularization, 1930s-80s",
+  "created_at": "2026-05-07T15:24:26+00:00"
+}

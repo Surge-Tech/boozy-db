@@ -1,0 +1,46 @@
+{
+  "id": "80cdf76a-ab69-49e0-b0dc-fb0b718be264",
+  "name": "Sloe Gin Fizz",
+  "spirit": "gin",
+  "glass": "highball",
+  "tags": [
+    "built",
+    "citrus",
+    "classic",
+    "fizz",
+    "gin",
+    "liqueur",
+    "sour"
+  ],
+  "ingredients": [
+    {
+      "amount": "1.5",
+      "unit": "oz",
+      "item": "sloe gin"
+    },
+    {
+      "amount": "1",
+      "unit": "oz",
+      "item": "lemon juice"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "simple syrup"
+    },
+    {
+      "amount": "3",
+      "unit": "oz",
+      "item": "soda water"
+    }
+  ],
+  "instructions": [
+    "Combine sloe gin, lemon juice, and simple syrup in a shaker with ice",
+    "Shake well",
+    "Strain into a highball glass with ice",
+    "Top with soda water",
+    "Garnish with lemon"
+  ],
+  "source": "Traditional, early 20th century",
+  "created_at": "2026-05-07T15:24:26+00:00"
+}

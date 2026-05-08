@@ -1,0 +1,49 @@
+{
+  "id": "8693cc06-02ed-4038-b3b8-d2c265d98166",
+  "name": "Improved Amaretto Sour",
+  "spirit": "liqueur",
+  "glass": "rocks",
+  "tags": [
+    "citrus",
+    "liqueur",
+    "modern",
+    "shaken",
+    "sour",
+    "whiskey"
+  ],
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "oz",
+      "item": "amaretto"
+    },
+    {
+      "amount": "1",
+      "unit": "oz",
+      "item": "bourbon"
+    },
+    {
+      "amount": "0.75",
+      "unit": "oz",
+      "item": "lemon juice"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "simple syrup"
+    },
+    {
+      "amount": "0.5",
+      "unit": "oz",
+      "item": "egg white"
+    }
+  ],
+  "instructions": [
+    "Combine all ingredients in a shaker",
+    "Shake vigorously without ice for 10 seconds",
+    "Add ice and shake again",
+    "Strain into a rocks glass with fresh ice"
+  ],
+  "source": "Jeffrey Morgenthaler, 2012, Clyde Common (Portland)",
+  "created_at": "2026-05-07T15:24:26+00:00"
+}

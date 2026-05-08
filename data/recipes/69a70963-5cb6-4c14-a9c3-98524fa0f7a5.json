@@ -1,0 +1,43 @@
+{
+  "id": "69a70963-5cb6-4c14-a9c3-98524fa0f7a5",
+  "name": "Negroni",
+  "spirit": "gin",
+  "glass": "rocks",
+  "tags": [
+    "aperitif",
+    "bitter",
+    "classic",
+    "gin",
+    "stirred"
+  ],
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "oz",
+      "item": "gin"
+    },
+    {
+      "amount": "1",
+      "unit": "oz",
+      "item": "sweet vermouth"
+    },
+    {
+      "amount": "1",
+      "unit": "oz",
+      "item": "Campari"
+    },
+    {
+      "amount": "1",
+      "unit": "dash",
+      "item": "Angostura bitters"
+    }
+  ],
+  "instructions": [
+    "Combine all ingredients in a mixing glass with ice",
+    "Stir well",
+    "Strain into a rocks glass with fresh ice",
+    "Garnish with orange twist"
+  ],
+  "source": "Camillo Negroni, 1919, Café Casoni (Florence)",
+  "created_at": "2026-05-07T15:23:14+00:00"
+}

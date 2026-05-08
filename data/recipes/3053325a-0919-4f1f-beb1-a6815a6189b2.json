@@ -1,0 +1,49 @@
+{
+  "id": "3053325a-0919-4f1f-beb1-a6815a6189b2",
+  "name": "Painkiller",
+  "spirit": "rum",
+  "glass": "rocks",
+  "tags": [
+    "contemporary",
+    "fruity",
+    "rum",
+    "shaken",
+    "tiki",
+    "tropical"
+  ],
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "oz",
+      "item": "navy rum"
+    },
+    {
+      "amount": "3",
+      "unit": "oz",
+      "item": "pineapple juice"
+    },
+    {
+      "amount": "2",
+      "unit": "oz",
+      "item": "orange juice"
+    },
+    {
+      "amount": "1",
+      "unit": "oz",
+      "item": "coconut cream"
+    },
+    {
+      "amount": "pinch",
+      "unit": "",
+      "item": "nutmeg"
+    }
+  ],
+  "instructions": [
+    "Combine rum, pineapple juice, orange juice, and coconut cream in a shaker with ice",
+    "Shake well",
+    "Strain into a rocks glass with crushed ice",
+    "Dust with freshly grated nutmeg"
+  ],
+  "source": "Charles Tobias/Pusser's, 1970s, Soggy Dollar Bar (BVI)",
+  "created_at": "2026-05-07T15:24:26+00:00"
+}

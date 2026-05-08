@@ -16,8 +16,26 @@ dependencies = [
   "pydantic>=2.7.0",
 ]
 
+[project.optional-dependencies]
+dev = [
+  "pytest>=8.0",
+  "ruff>=0.4",
+  "flask>=3.0",
+]
+
 [project.scripts]
 boozydb = "boozydb.cli:app"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/boozydb"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I"]
+ignore = ["E501"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

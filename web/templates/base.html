@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <title>{% block title %}BoozyDB{% endblock %}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="navbar">
+        <div class="navbar-container">
+            <a href="/" class="navbar-brand">BoozyDB</a>
+            {% if request.path == '/' %}
+            <div class="navbar-search">
+                <form method="get" style="display: flex;">
+                    <input
+                        type="text"
+                        name="q"
+                        class="search-input"
+                        placeholder="Search by name, spirit, or flavor..."
+                        value="{{ request.args.get('q', '') }}"
+                        autocomplete="off"
+                    >
+                </form>
+            </div>
+            {% endif %}
+            <div class="navbar-actions">
+                <button id="theme-toggle" class="theme-toggle" aria-label="Toggle theme">
+                    <span class="theme-icon">☀️</span>
+                </button>
+            </div>
+        </div>
+    </div>
+    <main class="container">
+        {% block content %}{% endblock %}
+    </main>
+    <script src="{{ url_for('static', filename='theme.js') }}"></script>
+</body>
+</html>

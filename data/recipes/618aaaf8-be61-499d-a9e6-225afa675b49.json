@@ -1,0 +1,37 @@
+{
+  "id": "618aaaf8-be61-499d-a9e6-225afa675b49",
+  "name": "Manhattan",
+  "spirit": "whiskey",
+  "glass": "coupe",
+  "tags": [
+    "bitter",
+    "classic",
+    "stirred",
+    "whiskey"
+  ],
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "oz",
+      "item": "bourbon"
+    },
+    {
+      "amount": "1",
+      "unit": "oz",
+      "item": "sweet vermouth"
+    },
+    {
+      "amount": "2",
+      "unit": "dashes",
+      "item": "Angostura bitters"
+    }
+  ],
+  "instructions": [
+    "Combine bourbon, sweet vermouth, and bitters in a mixing glass with ice",
+    "Stir well",
+    "Strain into a coupe glass",
+    "Garnish with cherry"
+  ],
+  "source": "Black Bart, 1870s, Manhattan Club (New York)",
+  "created_at": "2026-05-07T15:23:14+00:00"
+}

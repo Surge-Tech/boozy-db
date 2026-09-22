@@ -34,15 +34,11 @@
     }
     /* ── Terminal mode ───────────────────────────────────── */
     .tm {
-      --bg:#080c08; --bg2:#0a0f0a; --card:#0a0f0a;
-      --border:#183018; --fg:#39ff14; --dim:#1e8c1e;
-      --subtle:#143014; --accent:#39ff14; --abg:rgba(57,255,20,.08);
+      --bg:#111010; --bg2:#161514; --card:#1a1918;
+      --border:#2e2b28; --fg:#d6c9a8; --dim:#7a7060;
+      --subtle:#252220; --accent:#c9a961; --abg:rgba(201,169,97,.1);
     }
     .tm body { font-family:'Courier New',monospace; }
-    .tm::after {
-      content:'';position:fixed;inset:0;pointer-events:none;z-index:9998;
-      background:repeating-linear-gradient(0deg,transparent,transparent 3px,rgba(0,0,0,.04) 3px,rgba(0,0,0,.04) 4px);
-    }
     /* ── Reset ───────────────────────────────────────────── */
     *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
     html{scroll-behavior:smooth}
